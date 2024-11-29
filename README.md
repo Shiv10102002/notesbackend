@@ -36,5 +36,5 @@ Before getting started, make sure you have the following installed:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/auth-notes-api.git
-cd auth-notes-api
+git clone https://github.com/Shiv10102002/notesbackend.git
+
